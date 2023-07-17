@@ -1,3 +1,3 @@
-module github.com/Go-bolo/clock
+module github.com/go-bolo/clock
 
 go 1.15
